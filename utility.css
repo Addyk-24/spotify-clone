@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+}
+.flex{
+    display: flex;
+}
+.invert{
+    filter: invert(1);
+}
+.background{
+    background-color: #121212;
+
+}
+.font-weight{
+    font-weight: 700;
+
+}
+.font-200{
+    font-weight: 200
+}
+
+.text-base{
+    color: #b3b3b3;
+}
+.text-white{
+    color: #fff;
+}
+.grid{
+    display: grid;
+}
+.text-deco-hide{
+    text-decoration: none;
+}
